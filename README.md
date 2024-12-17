@@ -33,6 +33,6 @@
 </p>
 <p align="center">
     <a href="https://discord.com/users/1202009332678676542">
-        <img align="center" src="https://lanyard-profile-readme.vercel.app/api/212966578680102913">
+        <img align="center" src="https://lanyard-profile-readme.vercel.app/api/1202009332678676542">
     </a>
 </p>
