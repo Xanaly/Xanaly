@@ -1,9 +1,81 @@
-<h1 align="center">Salut 👋 , je suis Xanaly</h1>
-<h3 align="center">passionate frontend And Backend developer</h3>
+<h1 align="center">🪐 Welcome To My Profile ☄️</h1>
+<img src="https://user-images.githubusercontent.com/69421356/175442177-0f05ce78-31a5-44db-a7e3-603f7e96050a.png">
 
-<h3 align="left">Connectez-vous avec moi :</h3>
-<p align="left">
-</p><
 
-h3 align="left">Langues et outils :</h3>
-<p align="gauche"> <a href="https://www.w3schools.com/cpp/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg » alt="cplusplus » width="40 » height="40"/> </a> <a href="https://www.w3schools.com/css/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg » alt="css3 » width="40 » height="40"/> </a> <a href="https://www.w3.org/html/ » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg » alt="html5 » width="40 » height="40"/> </a> <a href="https://www.php.net » target="_blank » rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg » alt="php » width="40 » height="40"/> </a> </p>
+<div align="center"><a href="https://github.com/Inplex-sys/exodus-privacy-report">Learn How Exodus Centralized Servers Can Be A Danger</a></div>
+
+<h3 align="center">🥇 Trophies</h3>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Inplex-sys&theme=dracula&margin-w=10&margin-h=15&column=10">
+</p>
+
+<h3 align="center">📊 Stats</h3>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
+</p>
+<div float="center">
+    <img align="left" width="375" src="https://github-readme-stats.vercel.app/api?username=Inplex-sys&show_icons=false&theme=dark">
+    <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Inplex-sys&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
+</div>
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+<h3 align="center">📌 Actual Projects</h3>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
+</p>
+<div>
+    <br>
+    <br>
+    <br>
+    <p>
+        <img width="100" align="left" src="https://github.com/user-attachments/assets/26374273-07f5-42ea-a8cb-99afbb2968a3"/>
+        <h3><a href="https://github.com/Dark-Utilities/The-Reverse-Lab">The Reverse Lab</a></h3>
+        <h4>A repo that contains malwares that have been reversed, and investigations about malicious organizations.</h4>
+    </p>
+    <hr>
+    <br>
+    <p>
+        <img width="100" align="right" src="https://github.com/user-attachments/assets/bfa8f8d8-6529-4fb6-b91f-8baf3a325efc"/>
+        <h3 align="right"><a href="https://github.com/Inplex-sys/espnix">Espnix</a></h3>
+        <h4 align="right">An Open-Source Unix like system that is made to run on ESP32 and STM32 micro-chips.</h4>
+    </p>
+    <hr>
+    <p>
+        <img width="100" align="left" src="https://github.com/user-attachments/assets/c90a73fc-5f22-4003-8277-5c6d2e642ae4"/>
+        <h3><a href="https://github.com/E2EDPS/Research-Paper">E2EDPS</a></h3>
+        <h4>E2EDPS is an HTTP based protocol designed around a client-server architecture where the client is responsible for encrypting data before sending it to the server.</h4>
+    </p>
+    <br>
+    <hr>
+    <br>
+    <p>
+        <img width="100" align="right" src="https://github.com/user-attachments/assets/3f2d9a0c-8510-413b-908c-04f3fea2021b"/>
+        <h3 align="right"><a href="https://github.com/Inplex-sys/pc-auth">PC Auth</a></h3>
+        <h4 align="right">A desktop 2FA (OTP) manager for Windows, Linux and MacOS ...</h4>
+    </p>
+    <hr>
+    <p>
+        <img width="100" align="left" src="https://user-images.githubusercontent.com/69421356/192012425-de6148a1-e004-4349-a28e-6351f5de86c6.png">
+        <h3><a href="#">Texian</a></h3>
+        <h4>A technical support tickets manager for schools and companies.</h4>
+    </p>
+    <br>
+<br><br>
+<br><br>
+
+<h3 align="center">📞 Contact</h3>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/69421356/224833055-b11660f1-60f8-4211-9bee-4527e9259cd1.png">
+</p>
+<p align="center">
+    <a href="https://discord.com/users/212966578680102913">
+        <img align="center" src="https://lanyard-profile-readme.vercel.app/api/212966578680102913">
+    </a>
+</p>
